@@ -48,7 +48,7 @@ const EditNote = ({notes,setNotes}) => {
     <section>
       <header className="create-note__header">
         <Link to="/" className='btn'><IoIosArrowBack/></Link>
-        <button className='btn lg primary' onClick={handleForm}>Save</button>
+        <button className='btn lg primary' onClick={handleForm}>Edit</button>
         <button className='btn danger' onClick={handleDelete}><RiDeleteBin6Line/></button>
       </header>
       <form className="create-note__form" onSubmit={handleForm}>
