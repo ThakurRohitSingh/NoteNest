@@ -1,5 +1,5 @@
 # NoteNest
-
+![Project Screenshot]()
 ## Overview
 
 NoteNest is a simple and intuitive application for creating, managing, and organizing your notes. Built using React and CSS, this app leverages the power of Create React App to provide a robust foundation for development.
