@@ -1,8 +1,8 @@
 # NoteNest
 
-![Project Screenshot 1](src/UI/Screenshot 2024-06-15 000350.png)
-![Project Screenshot 2](src/UI/Screenshot 2024-06-15 001123.png)
-![Project Screenshot 3](src/UI/Screenshot 2024-06-15 001226.png)
+![Project Screenshot 1](src/UI/Front.png)
+![Project Screenshot 2](src/UI/Edit.png)
+![Project Screenshot 3](src/UI/filter.png)
 
 ## Overview
 
